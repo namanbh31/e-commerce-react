@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-color: #effbff!important;
+}
+/* ::placeholder{
+  color: white!important;
+  opacity: 0.2;
+} */
+
+
+.red-hat-text {
+  font-family: "Red Hat Text", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.text-weight-heavier{
+  font-weight: 500;
+}
+.text-weight-lighter{
+  font-weight: 200;
+}
+/* Category Styling */
+ .cgt-img{
+  overflow: hidden;
+  max-height :7rem;
+  max-width: 15rem;
+ }
+ .cgt-tag{
+  background-color: white !important;
+  min-width: 15rem;
+  min-height: 7rem;
+  align-items: center;
+  justify-content: center;
+ }
+ .cgt-img img{
+  z-index: 1;
+  width: 15rem;
+  height: 7rem;
+ }
+ .cgt-lower{
+  width: 15rem;
+  height: 7rem;
+  max-height: 7rem;
+  background-color: #ecc3bd;
+ }
+.cgt-card{
+  overflow: hidden;
+  max-height: 21rem;
+  max-width: 15rem;
+}
+.cgt-card  a{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none !important;
+  color: black !important;
+}
+
+/* Product Section */
+.p-card{
+  overflow: hidden;
+  height: 30rem;
+  width:18rem;
+  background-color: whitesmoke;
+}
+.p-card a{
+  text-decoration: none;
+  color:inherit;
+}
+.p-card-img{
+  width: 18rem;
+  height: 21rem;  
+}
+.p-card-img img{
+  max-width: 18rem;
+  max-height: 21rem;
+}
+.text-align-justify{
+  text-align: justify;
+}
+.text-align-left{
+  text-align: left;
+}
+
+/* Products Section */
+/* .products-con{
+  margin-left: 15rem;
+} */
+
+/* Filtering section */
+
+.filter-section{
+  position: fixed;
+  left: 50rem;
+  bottom :3rem;
+  color: aliceblue !important;
+}
+
+.pp-img-con{
+  max-height: 35rem;
+  max-width: 35rem;
+  margin-top: 3rem;
+  
+}
+.pp-img-con img{
+  max-width: 30rem;
+  max-height: 30rem;
+}
+
+.pp-details{
+  margin-top: 3rem;
+}
+.pp-details .alert{
+  max-width: fit-content !important; 
+}
+
+/* Cart Section */
+
+.c-card{
+  /* height: 5rem; */
+  width: 70%;
+  background-color: white;
+}
+.c-img img{
+  max-width: 2rem;
+}
+.c-quantity{
+  margin-top: 0.8rem;
+}
+.place-order-btn{
+  margin-right: 15%;
+}
+
+/* Order Page */
+.order-form{
+  width: 70%;
+  background-color: white;
+  margin-top: 3%;
+}
