@@ -36,5 +36,6 @@ The site should now be running locally at `http://localhost:3000`.
 - The cart will be cleared if you reload the website.
 - The site may not load if the API is unavailable.
 - The search bar is not functional.
+- The Category section in the landing page is for making the website look good it eventually goes to the same page.
 
 
