@@ -1,7 +1,7 @@
 
 # E-Commerce Website (React)
 
-This is a fully functional e-commerce website built using React, allowing users to browse products, add items to their cart, and make purchases seamlessly. The site features a modern UI, product listings, and cart functionality.
+This is a fully functional e-commerce website built using React, allowing users to add items to their cart, and make purchases seamlessly. The site features a modern UI, product listings, and cart functionality.
 
 🔗 **Live Demo**: [E-Commerce React Website](https://e-commerce-react-two-psi.vercel.app/)
 
