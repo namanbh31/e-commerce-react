@@ -35,5 +35,6 @@ The site should now be running locally at `http://localhost:3000`.
 - No authorization and authentication implemented.
 - The cart will be cleared if you reload the website.
 - The site may not load if the API is unavailable.
+- The search bar is not functional.
 
 
